@@ -14,10 +14,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Git CI/CD](https://img.shields.io/badge/Git%20CI%2FCD-000000?style=flat&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=147EFB)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC&t=1)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ###
 ![Notion API](https://img.shields.io/badge/Notion%20API-000000?style=flat&logo=notion&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat&logo=telegram&logoColor=white)
 </div>
