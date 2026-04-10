@@ -1,5 +1,6 @@
 ![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 ###
+![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=147EFB)
@@ -7,6 +8,7 @@
 
 ###
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
