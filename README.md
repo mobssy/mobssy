@@ -14,6 +14,6 @@
 
 ###
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=FFFFFF)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat&logo=telegram&logoColor=white)
 </div>
