@@ -1,6 +1,5 @@
 ![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 ###
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ###
