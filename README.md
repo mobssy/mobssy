@@ -9,7 +9,6 @@
 
 ###
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
