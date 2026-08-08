@@ -1,4 +1,4 @@
-![Min-Q Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
+![Min-Q Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Min-Q%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 
 ###
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
