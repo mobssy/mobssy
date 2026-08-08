@@ -15,6 +15,8 @@
 
 ###
 ![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat-square&logo=ffmpeg&logoColor=007808)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat-square&logo=telegram&logoColor=white)
 ![YouTube API](https://img.shields.io/badge/YouTube_API-000000?style=flat-square&logo=youtube&logoColor=FF0000)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
