@@ -1,4 +1,4 @@
-![Min-Q Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Min-Q%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
+![Min-Q Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Min-Q%20&fontAlignY=33&fontSize=50&fontAlign=30)
 
 ###
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
