@@ -3,7 +3,6 @@
 ###
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Sketch](https://img.shields.io/badge/Sketch-000000?style=flat-square&logo=sketch&logoColor=F7B500)
-![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=0055FF)
 
 ###
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=147EFB)
