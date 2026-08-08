@@ -11,12 +11,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat-square&logo=ffmpeg&logoColor=007808)
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 ###
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat-square&logo=telegram&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat-square&logo=telegram&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat-square&logo=ffmpeg&logoColor=007808)
 
