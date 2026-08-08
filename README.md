@@ -15,7 +15,6 @@
 
 ###
 ![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat-square&logo=telegram&logoColor=white)
 ![YouTube API](https://img.shields.io/badge/YouTube_API-000000?style=flat-square&logo=youtube&logoColor=FF0000)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
