@@ -12,6 +12,9 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=webgl&logoColor=990000)
 
 ###
 ![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
