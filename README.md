@@ -4,8 +4,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Sketch](https://img.shields.io/badge/Sketch-000000?style=flat-square&logo=sketch&logoColor=F7B500)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square)
-![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat-square)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-000000?style=flat-square&logo=adobe&logoColor=FF0000)
 
 **iOS**
 
