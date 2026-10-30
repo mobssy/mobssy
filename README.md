@@ -1,4 +1,4 @@
-![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
+![David Song](https://capsule-render.vercel.app/api?type=rect&height=140&color=0:000000,100:1c1c1e&text=David%20Song&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=45&desc=Product%20Designer&descSize=16&descAlign=50&descAlignY=72&animation=fadeIn)
 
 ###
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
