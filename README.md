@@ -4,6 +4,8 @@
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Sketch](https://img.shields.io/badge/Sketch-000000?style=flat-square&logo=sketch&logoColor=F7B500)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square)
 
 **iOS**
 
@@ -12,6 +14,8 @@
 
 **Web & 3D**
 
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
@@ -19,6 +23,7 @@
 
 **Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=flat-square&logo=googlecloud&logoColor=4285F4)
